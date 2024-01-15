@@ -6,5 +6,5 @@ The pickups can also spawn as a healing red heart or blue shield. The heart full
 
 
 
-To test the demo you need steam installed and running on your machine. Then unzip the .rar archive after downloading it. After you have unzipped the archive open the Windows folder and run the "Blaster.exe" file. The current build of the game is made for windows only. 
+To test the demo you need Steam installed and running on your machine. Then unzip the .rar archive after downloading it. After you have unzipped the archive open the Windows folder and run the "Blaster.exe" file. The current build of the game is made for Windows only. 
 For a playable demo refer to the link: https://drive.google.com/drive/folders/1R2SPLhTeNtM-sGE3HDCN5ApOBA_Vk5gN?usp=drive_link
